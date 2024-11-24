@@ -8,7 +8,7 @@ function About() {
             <h1>About Me</h1>
             <div className={styles.about_section}>
                 <p>
-                Hey I'm Software developer with 1 year of experience in Google Cloud and back-end development. Proficient in GCP services and building scalable applications. Skilled in front-end (HTML/CSS/JavaScript/react) and back-end (Django/Python) development, with Agile teamwork experience.
+                Hey I&apos;m a Software developer with 1 year of experience in Google Cloud and back-end development. Proficient in GCP services and building scalable applications. Skilled in front-end (HTML/CSS/JavaScript/react) and back-end (Django/Python) development, with Agile teamwork experience.
                     <br />
                     <br />I am also highly into Open Source and like to contribute to different projects.More information about my Open Source profile is available at <a href="https://github.com/vaibhavc13" target="_blank" without rel="noreferrer"> GitHub |Vaibhav C</a>.
                     <br />
